@@ -1,0 +1,17 @@
+# Raw and processed datasets
+data/raw/*
+data/processed/*
+
+# Kaggle credentials
+kaggle.json
+
+# Temporary files
+*.log
+*.tmp
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
